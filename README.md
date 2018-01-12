@@ -1,2 +1,1 @@
-# udacimeals
-Udaci meals project
+### UdaciMeals
